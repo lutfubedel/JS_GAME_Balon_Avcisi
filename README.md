@@ -1,34 +1,24 @@
 # JS_GAME_Balon_Avcisi
  
-Project Title
-One Paragraph of project description goes here
+Bu proje, HTML ve JavaScript kullanılarak geliştirilmiş olan "Balon Avcısı" adlı bir oyundur. Oyuncular, bir platform üzerindeki bir ninjayı kontrol ederler ve üzerlerine düşen balonları patlatmaya çalışırlar. Balonları patlatarak puan toplarlar ve amacı en yüksek puanı elde etmektir.
 
-Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+# Kullanılan Teknolojiler 
+* HTML
+* JAVASCRİPT
+  
+# Proje Görselleri
+![Balon Avcısı](SS1.png)
+![Balon Avcısı](SS2.png)
 
-Prerequisites
-What things you need to install the software and how to install them
+# Proje Linki
+[Balon Avcısı](https://js-game-balon-avcisi.vercel.app)
 
-Give examples
-Installing
-A step by step series of examples that tell you how to get a development env running
+# Oynanış Videosu
+[Youtube](https://youtu.be/tr_OEJFBBxk)
 
-Say what the step will be
+# Projeyi Geliştirenler
+- Lütfü Bedel
 
-Give the example
-And repeat
 
-until finished
-End with an example of getting some data out of the system or using it for a little demo
 
-Running the tests
-Explain how to run the automated tests for this system
 
-Break down into end to end tests
-Explain what these tests test and why
-
-Give an example
-And coding style tests
-Explain what these tests test and why
-
-Give an example
