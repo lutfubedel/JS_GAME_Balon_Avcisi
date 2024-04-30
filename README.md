@@ -11,10 +11,10 @@ Bu proje, HTML ve JavaScript kullanılarak geliştirilmiş olan "Balon Avcısı"
 ![Balon Avcısı](SS2.png)
 
 # Proje Linki
-[Balon Avcısı](https://js-game-balon-avcisi.vercel.app)
+[Web site Linki](https://js-game-balon-avcisi.vercel.app)
 
 # Oynanış Videosu
-[Youtube](https://youtu.be/tr_OEJFBBxk)
+[Youtube Oynanış Videosu](https://youtu.be/tr_OEJFBBxk)
 
 # Projeyi Geliştirenler
 - Lütfü Bedel
